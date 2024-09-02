@@ -5,8 +5,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanpiyd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lightrain-a.lightrain-a" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Anita;" />
+</h1>
 
 
 
