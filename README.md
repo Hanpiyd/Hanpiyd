@@ -7,6 +7,8 @@
 
 🌱 I’m currently learning Computer Vision
 
+⚡ Now I'm working on the topic of AI4Paper
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanpiyd&show_icons=true&theme=radical)
